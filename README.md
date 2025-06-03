@@ -95,11 +95,6 @@ To run the projects locally:
 
 ---
 
-## 📈 Sample Visualizations
-
-*Include screenshots or plots here if available.*
-
----
 
 ## 🤝 Contributing
 
